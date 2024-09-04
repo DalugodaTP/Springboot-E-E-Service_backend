@@ -1,0 +1,8 @@
+spring :
+  datasource :
+    url : jdbc:mysql://localhost:3306/thogakade?createDatabaseIfNotExist=true
+    username : root
+    password : 1234
+
+server:
+  port: 8082
